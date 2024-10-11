@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: 220803
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 220803
+    database: 0
